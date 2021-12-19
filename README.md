@@ -4,6 +4,7 @@
 ## Practical
 
 You have to create laravel application which performs following.
+
 **1.  Category Module**
 -   Add / Edit / Delete / List with image
 -   Status enable / disable using ajax
